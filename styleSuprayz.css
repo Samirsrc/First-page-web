@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	margin: 0;
+}
+
+div{
+	position: relative;
+	z-index: 1;
+	width: 35%;
+	height: 100%;
+	padding-top: 30px;
+	margin-left: 900px;
+}
+div a{
+	color: white;
+	margin-right: 30px;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: fantasy;
+}
+div a:hover{
+	cursor: pointer;
+	color: red;
+}
+.title1{
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	font-size: 40px;
+	font-family: arial;
+	color: skyblue;
+	text-shadow: 5px 5px 10px skyblue;
+	padding-top: 100px;
+	}
+
+.title2{
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	font-size: 40px;
+	font-family: arial;
+	color: skyblue;
+	text-shadow: 5px 5px 10px skyblue;
+
+	}
+img{
+	width: 1360px;
+	height: 768px;
+	position: absolute;
+}
